@@ -11,12 +11,8 @@
 
  </div>
 - 🔭 I’m currently working on [salatok-gtk ](https://github.com/adenlall/salatok-gtk)
-- 🤝 I’m looking for help with [react native anilist clients](https://github.com/adenlall/adelist)
-
-- 📫 How to reach me **adenlall@proton.me**
-- 👨‍💻 All of my projects are available at **adenlall.vercel.app**
-- 📝 I regularly write articles on **adenlall.vercel.app/blog**
-- 📄 Know about my experiences **adenlall.vercel.app/resume**
+- 📫 How to reach me [email](mailto:adenlall@gmail.com)
+- 👨‍💻 All of my projects are available at [portfolio](adenlall.vercel.app)
 
 <hr/>
 <p align="center">
@@ -56,6 +52,5 @@
 
   <hr/>
 
-<h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adenlall&layout=compact&theme=tokyonight" alt=adenlall />
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adenlall&theme=tokyonight" alt="adenlall" /></p>
