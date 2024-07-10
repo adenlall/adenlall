@@ -16,23 +16,21 @@
 
 <hr/>
 <p align="center">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/GTK_logo.svg" alt="GTK" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/vuejs-original-wordmark.svg" alt="Vuejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/graphql-icon.svg" alt="Graphql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Static/nextjs-2.svg" alt="Nextjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/jestjsio-icon.svg" alt="Jestjsio" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/adenlall/adenlall/main/ts.svg" alt="Typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/adenlall/adenlall/main/js.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/adenlall/adenlall/main/php.svg" alt="PHP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/adenlall/adenlall/main/gtk.svg" alt="GTK" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/adenlall/adenlall/main/docker.svg" alt="GTK" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/adenlall/adenlall/main/tailwindcss.svg" alt="Tailwindcss" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/adenlall/adenlall/main/vue.svg" alt="Vuejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/adenlall/adenlall/main/react.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/adenlall/adenlall/main/nodejs.svg" alt="NodeJs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/adenlall/adenlall/main/prisma.svg" alt="NodeJs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/adenlall/adenlall/main/gql.svg" alt="Graphql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/adenlall/adenlall/main/ex.svg" alt="Express" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/adenlall/adenlall/main/next.svg" alt="Nextjs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/adenlall/adenlall/main/laravel.svg" alt="Laravel" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/adenlall/adenlall/main/jest.svg" alt="Jestjsio" width="40" height="40"/>
 </p>
 
   <hr/>
