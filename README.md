@@ -10,9 +10,9 @@
 <a href = "mailto:adenlall@proton.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  </div>
-- 🔭 I’m currently working on [salatok-gtk ](https://github.com/adenlall/salatok-gtk)
-- 📫 How to reach me [email](mailto:adenlall@gmail.com)
-- 👨‍💻 All of my projects are available at [portfolio](adenlall.vercel.app)
+- 🔭 I’m currently working on [travelo ](https://github.com/adenlall/travelo)
+- 📫 How to reach me [email](mailto:adenlall@proton.me)
+- 👨‍💻 All of my projects are available at [portfolio](https://adenlall.vercel.app)
 
 <hr/>
 <p align="center">
